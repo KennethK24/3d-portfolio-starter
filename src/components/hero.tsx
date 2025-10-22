@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
         transition={{ duration: 1 }}      // duration: 1 = takes 1 second
         className="flex-1 space-y-6 text-center md:text-left"
       >
-        {/* Replace your name here */}
+        {/* Kenneth */}
         <h1 className="text-5xl md:text-7xl font-bold leading-tight">
           hi, i&apos;m <span className="text-[#04D9FF]">your name</span>
         </h1>
